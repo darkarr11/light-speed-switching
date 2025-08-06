@@ -91,3 +91,7 @@ We’re seeking input from:
 
 This concept was developed as part of a **human + AI collaboration experiment** — testing whether speculative systems can be better expressed, critiqued, and iterated using assistive tools.  
 All feedback welcome — especially the hard stuff.
+
+📄 Full Technical Brief:  
+[→ LSSC Whitepaper](docs/LSSC-whitepaper.md)
+
